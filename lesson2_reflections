@@ -11,4 +11,5 @@ git branch new_branch | Crea una nueva rama (branch) con el nombre new_branch
 git checkout -b new_branch | Crea una rama y hace un checkout de la rama
 git merge branch1 branch2 | Hace un merge de branch2 en la branch1 (combinando su contenido)
 git branch -d name | Borra la rama con el nombre name
+git show commitId | Enseña los cambios hechos respecto la version anterior
 
