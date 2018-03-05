@@ -1,0 +1,7 @@
+Comandos:
+
+q | Salir de git log
+git log | Listado de commits
+git log --stat | Mas info sobre los commits
+git diff id1 id2 | Crea una copia del repositorio
+git checkout | Show a previous versions of the file
