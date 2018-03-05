@@ -1,0 +1,14 @@
+Comandos:
+
+git add | Añade un archivo al staging area
+git commit | Hace un commit de los archivos en el staging area
+git status | Enseña los archivos que están en el stagin area
+git diff | Git diff compara los archivos modificados con el repositorio
+git diff --staged | Compara los archivos modificados y añadidos del staging area con el repositorio
+git reset --hard | Desace todos los cambios que has hecho 
+git log --graph --online <branch1> <branch2> | Crea una gráfica de de las branch
+git branch new_branch | Crea una nueva rama (branch) con el nombre new_branch
+git checkout -b new_branch | Crea una rama y hace un checkout de la rama
+git merge branch1 branch2 | Hace un merge de branch2 en la branch1 (combinando su contenido)
+git branch -d name | Borra la rama con el nombre name
+
